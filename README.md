@@ -1,2 +1,2 @@
-# claptrap
-Raspberry Pi - self balancing robot
+# Raspberry Pi - self balancing robot
+
